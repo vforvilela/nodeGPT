@@ -1,4 +1,4 @@
-# NodeGTP
+# NodeGPT
 
 Engage in seamless conversation with your node (and a handful of APIs).
 
